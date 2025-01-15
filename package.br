@@ -1,5 +1,6 @@
-name: "example";
-version: "0.0.0";
-description: "whatever";
-dependencies: 
+package.name: "example";
+package.author: "jardimdanificado";
+package.version: "0.0.0";
+package.description: "whatever";
+
 
